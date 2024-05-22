@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aiBard101
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project relating to AI
 - 😄 Pronouns: RoBot
-- ⚡ Fun fact: Right now with can't survive without AI
+- ⚡ Fun fact: Right now we can't survive without AI
 
 <!---
 aiBard101/aiBard101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
