@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @aiBard101
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on any project relating to AI
-- 😄 Pronouns: RoBot
-- ⚡ Fun fact: Right now we can't survive without AI
+# Alainengiya George Junior | Mechatronics & AI Specialist
 
-<!---
-aiBard101/aiBard101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my portfolio! I am a dedicated Mechatronics and Artificial Intelligence enthusiast with expertise in embedded systems, computer vision, machine learning, NLP, data science, LLMs, and chatbots.
+
+## About Me
+
+I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at the Federal University of Technology, Minna, Niger State. My passion lies in integrating mechatronics with artificial intelligence to create innovative solutions.
+
+## Skills
+
+- **Programming Languages:** C++, Python
+- **Databases:** MySQL
+- **Tools & Frameworks:** TensorFlow, PyTorch, OpenCV, NLTK
+- **Areas of Expertise:** Embedded Systems, Computer Vision, Machine Learning, NLP, Data Science, LLMs, Chatbots
