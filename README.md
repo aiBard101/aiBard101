@@ -32,7 +32,7 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 - **Demo:** [YouTube](https://youtu.be/4bnG9TnrOag?si=8rpUmv494D00grCC).
 - **Website:** [aibard.code.blog](https://aibard.code.blog/poetry-generator-with-fastapi-and-googleai/).
 
-  ### [Computer Vision Pong Arcade Game](https://github.com/aiBard101/computer_vision_projects/tree/main/pong-game)
+### [Computer Vision Pong Arcade Game](https://github.com/aiBard101/computer_vision_projects/tree/main/pong-game)
 - **Description:** A Pong arcade game that uses hand tracking to control the paddle. This project combines the power of Python with libraries like Pygame and OpenCV to create an interactive and engaging game.
 - **Technologies Used:** OpenCV, MediaPipe, Pygame.
 - **Key Features:**  Pygame, OpenCV and MediaPipe to create an interactive and engaging game.
