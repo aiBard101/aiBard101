@@ -36,10 +36,11 @@ Feel free to explore the projects and learn more about the work I’ve done. If 
 
 ## Contact
 
-- **Email:** [aibard.code.blog]
-- **LinkedIn:** [https://www.linkedin.com/in/george-alainengiya-5b44b5251]
-- **GitHub:** [https://github.com/aiBard101]
-- **X:** [https://x.com/aiBard001?t=_eaBwoB8epEwIrGJSsBr0g&s=08]
-- **YouTube:** [https://youtube.com/@aibard101?si=GgF--gFp8vRmDGl2]
+- **website:** (https://aibard.code.blog/)
+- **LinkedIn:** (https://www.linkedin.com/in/george-alainengiya-5b44b5251)
+- **GitHub:** (https://github.com/aiBard101)
+- **X:** (https://x.com/aiBard001?t=_eaBwoB8epEwIrGJSsBr0g&s=08)
+- **YouTube:** (https://youtube.com/@aibard101?si=GgF--gFp8vRmDGl2)
+- **Email:** (aibard.annonymousasquare@gmail.com)
 
 Thank you for visiting my portfolio!
