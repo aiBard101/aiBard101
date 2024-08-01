@@ -1,4 +1,4 @@
-# Alainengiya George Junior | Mechatronics & AI Specialist
+# Alainengiya George Junior | Mechatronics & AI Developer
 
 Welcome to my portfolio! I am a dedicated Mechatronics and Artificial Intelligence enthusiast with expertise in embedded systems, computer vision, machine learning, NLP, data science, LLMs, and chatbots.
 
