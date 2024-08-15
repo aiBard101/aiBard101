@@ -1,6 +1,6 @@
 # Alainengiya George Junior | Mechatronics & AI Developer
 
-Welcome to my portfolio! I am a dedicated Mechatronics and Artificial Intelligence enthusiast with expertise in embedded systems, computer vision, machine learning, NLP, data science, LLMs, and chatbots.
+I am a dedicated Mechatronics and Artificial Intelligence enthusiast with expertise in embedded systems, computer vision, machine learning, NLP, data science, LLMs, and chatbots.
 
 ## About Me
 
@@ -39,6 +39,14 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 - **Link to GitHub Repository:** [Repository](https://github.com/aiBard101/computer_vision_projects/tree/main/pong-game).
 - **Demo:** [YouTube](https://youtu.be/O22W1Vvs37E).
 - **Website:** [aibard.code.blog](https://aibard.code.blog/computer-vision/).
+
+### [Movie Recommendation System](https://github.com/aiBard101/computer_vision_projects/tree/main/pong-game)
+- **Description:** The Movie Recommendation System provides personalized movie suggestions based on user input and preferences. By combining web scraping for data collection, natural language processing (NLP), machine learning models, FastAPI for backend services, and a dynamic frontend, this system delivers a robust and engaging user experience.
+- **Technologies Used:** Flask, sklearn, Python, BeautifulSoup, Html5, CSS3, JavaScript (ES6), Bootstrap.
+- **Key Features:** Movie Recommendation.
+- **Link to GitHub Repository:** [Repository](https://github.com/aiBard101/computer_vision_projects/tree/main/pong-game).
+- **Demo:** [YouTube](https://youtu.be/O22W1Vvs37E).
+- **Website:** [aibard.code.blog](https://aibard.code.blog).
 
 Feel free to explore the projects and learn more about the work I’ve done. If you have any questions or would like to collaborate, don’t hesitate to reach out!
 
