@@ -46,7 +46,15 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 - **Key Features:** Movie Recommendation.
 - **Link to GitHub Repository:** [Repository](https://github.com/aiBard101/Machine-Learning-Projects/tree/main/movie-recommendation-system).
 - **Demo:** [YouTube](https://youtu.be/M-sHa80d1Oc).
-- **Website:** [aibard.code.blog](https://aibard.code.blog).
+- **Website:** [aibard.code.blog](https://aibard.code.blog/movie-recommendation-system/).
+
+### [Nigeria House Prices Prediction](https://github.com/aiBard101/Machine-Learning-Projects/tree/main/nigerian-house-price-prediction)
+- **Description:** Nigerian House Price Prediction is a machine learning web application designed to predict house prices in Nigeria based on various features such as the number of bedrooms, bathrooms, square footage, and more. Using FastAPI for the web interface and XGBoost for the prediction model, the app allows users to input house details and get an estimated price in real-time. The project provides an intuitive user experience, making it easy to explore trends in house prices and make informed decisions.
+- **Technologies Used:** FastAPI, Python, XGBoost, scikit-learn, Pandas, NumPy, Uvicorn, Jinja2, HTML/CSS, Matplotlib, Seaborn.
+- **Key Features:** House Price Prediction.
+- **Link to GitHub Repository:** [Repository](https://github.com/aiBard101/Machine-Learning-Projects/tree/main/nigerian-house-price-prediction).
+- **Demo:** [YouTube](https://youtu.be/G4SbqmyTak4).
+- **Website:** [aibard.code.blog](https://aibard.code.blog/house-price-prediction-using-machine-learning/).
 
 Feel free to explore the projects and learn more about the work I’ve done. If you have any questions or would like to collaborate, don’t hesitate to reach out!
 
