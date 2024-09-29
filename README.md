@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 
 - **Programming Languages:** C++, Python, JavaScript.
 - **Databases:** MySQL
-- **Tools & Frameworks:** TensorFlow, PyTorch, OpenCV, MediaPipe, NLTK, LangChain, Flask, FastAPI, Matplotlib, Pandas, pygame.
+- **Tools & Frameworks:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Flask, Uvicorn, FastAPI, Seaborn, Matplotlib, Pandas, pygame.
 - **Areas of Expertise:** Embedded Systems, Computer Vision, Machine Learning, NLP, Data Science, LLMs, Chatbots, Prompt Engineering, Backend Development
 
 ## Projects
